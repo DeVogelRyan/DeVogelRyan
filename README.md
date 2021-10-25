@@ -7,7 +7,7 @@
 - 💬 Programming languages I studied earlier: Html, Css, JavaScript, Java, C++,
 - 📫 How to reach me: https://www.linkedin.com/in/ryan-de-vogel-293088202/
 - ⚡ Fun fact: I look up to Linus torvalds
-- 🔗 My projects are hosted on: www.DeVogelRyan.github.io
+- 🔗 My projects are hosted on: https://DeVogelRyan.github.io
 
 
 
