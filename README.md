@@ -2,7 +2,6 @@
 ##### My name is De Vogel Ryan
 
 
-- 🔭 I’m currently working on a project called: Ping range of IP's
 - 🌱 I’m currently learning: PHP, Flutter, C#, Python
 - 💬 Programming languages I studied earlier: Html, Css, JavaScript, Java, C++,
 - 📫 How to reach me: https://www.linkedin.com/in/ryan-de-vogel-293088202/
