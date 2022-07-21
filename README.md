@@ -1,5 +1,5 @@
 # Hi there 👋 
-## My name is De Vogel Ryan
+## My name is De Vogel Ryan and I am an aspiring network engineer
 
 
 - 📫 How to reach me: https://www.linkedin.com/in/ryan-de-vogel-293088202/
@@ -8,6 +8,12 @@
 
 ### Networking technologies:
 * OSPF
+* NAT
+* ACL/extended ACL
+* VLANs
+* Packet Tracer & GNS3
+* RIP/RIPv2
+* ...
 
 ### Coding technologies:
 
