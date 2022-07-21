@@ -3,11 +3,11 @@
 
 
 - 📫 How to reach me: https://www.linkedin.com/in/ryan-de-vogel-293088202/
-- ⚡ Fun fact: I look up to Linus torvalds
+- ⚡ Fun fact: I look up to Linus torvalds & Marcus Hutchins
 - 🔗 My projects are hosted on: https://DeVogelRyan.github.io
 
 
-### Technology's:
+### Coding technologies:
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=Flat" />
