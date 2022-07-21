@@ -6,6 +6,8 @@
 - ⚡ Fun fact: I look up to Linus torvalds & Marcus Hutchins
 - 🔗 My projects are hosted on: https://DeVogelRyan.github.io
 
+### Networking technologies:
+* OSPF
 
 ### Coding technologies:
 
