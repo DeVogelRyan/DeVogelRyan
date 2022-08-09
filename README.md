@@ -7,13 +7,8 @@
 - 🔗 My projects are hosted <a href="https://DeVogelRyan.github.io">here</a> or on: https://DeVogelRyan.github.io
 
 ### Networking technologies:
-* OSPF
-* NAT
-* ACL/extended ACL
-* VLANs
-* Packet Tracer & GNS3
-* RIP/RIPv2
-* ...
+Windows | DNS | Active Directory | Linux | Bash| Apache | Nginx | Cisco | BGP | OSPF | RIP/RIPv2 
+
 
 ### Coding technologies:
 
