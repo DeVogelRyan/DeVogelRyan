@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/ryan-de-vogel-293088202/
 - ⚡ Fun fact: I look up to Linus torvalds & Marcus Hutchins
-- 🔗 My projects are hosted on: https://DeVogelRyan.github.io
+- 🔗 My projects are hosted <a href="https://DeVogelRyan.github.io">here</a> or on: https://DeVogelRyan.github.io
 
 ### Networking technologies:
 * OSPF
