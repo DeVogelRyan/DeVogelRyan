@@ -24,7 +24,6 @@ Windows | DNS | Active Directory | Linux | Bash| Apache | Nginx | Cisco | BGP | 
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=Flat" />
   <img alt="Npm" src="https://img.shields.io/badge/Npmn-CB3837?logo=Npm&logoColor=white&style=Flat" />
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white&style=Flat" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=Flat" />
 </p>
 
 
