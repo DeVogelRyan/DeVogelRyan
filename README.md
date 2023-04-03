@@ -1,16 +1,16 @@
 # Hi there 👋 
-## My name is De Vogel Ryan and I am an aspiring network engineer
+## My name is De Vogel Ryan and I am an aspiring IT specialist
 
 
 - 📫 How to reach me: https://www.linkedin.com/in/ryan-de-vogel-293088202/
 - ⚡ Fun fact: I look up to Linus torvalds & Marcus Hutchins
 - 🔗 My projects are hosted <a href="https://DeVogelRyan.github.io">here</a> or on: https://DeVogelRyan.github.io
 
-### Networking technologies:
-Windows | DNS | Active Directory | Linux | Bash| Apache | Nginx | Cisco | BGP | OSPF | RIP/RIPv2 
+### Technologies:
+Windows | Linux | DNS | Active Directory | Ansible | Bash| Apache | Nginx | Cisco | BGP | OSPF | RIP/RIPv2 | Fortinet | VPN | Google cloud | CI/CD
 
 
-### Coding technologies:
+### Coding languages:
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=Flat" />
